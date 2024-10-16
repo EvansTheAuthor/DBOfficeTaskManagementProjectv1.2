@@ -9,7 +9,7 @@
 
 ### Work in Progress:
 
-- Developing a new team creation feature.
+- Developing a "New Team Creation" feature.
 - Fixing minor bugs that appear when accessing the Team Member Editing Frame.
 - The application's UI is under development and planned as a long-term ongoing project.
 
